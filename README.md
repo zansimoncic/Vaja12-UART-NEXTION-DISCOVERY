@@ -22,4 +22,5 @@ Kakšen ASCII znak prejme Nextion? NUL .
 
 
 
+
 Komentar: Naloga ne deluje pravilno, saj Nextion ne prikazuje kot bi moral. Napako sva poskušala odpraviti, vendar nama ni uspelo.
